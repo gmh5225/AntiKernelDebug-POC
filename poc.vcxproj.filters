@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="detect">
+      <UniqueIdentifier>{b893d0be-56c7-46a4-99c3-c8ddaf42d898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="util">
+      <UniqueIdentifier>{1e45d67b-b380-45b9-abc5-3c0a2803c1cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="detect.poc.pooltag.cpp">
+      <Filter>detect</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>util</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="detect.h">
+      <Filter>detect</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>util</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
