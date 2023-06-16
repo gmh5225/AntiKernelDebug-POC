@@ -13,4 +13,4 @@ Tested in Win10 1809
 
 ## Compile
 - Visual Studio 2019
-- llvm-msvc [[link]](https://github.com/NewWorldComingSoon/llvm-msvc-build)
+- llvm-msvc [[link]](https://github.com/NewWorldComingSoon/llvm-msvc-build/releases)
